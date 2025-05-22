@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="662e360397ad2210ff74ff0de053af76" sys_domain="global" table="x_1755770_new_em_0_pc_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:56:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f22e360397ad2210ff74ff0de053af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755770_new_em_0_pc_request" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">662e360397ad2210ff74ff0de053af76</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">868d7e8f976d2210ff74ff0de053aff2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 07:56:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:56:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>722e360397ad2210ff74ff0de053af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755770_new_em_0_pc_request" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">662e360397ad2210ff74ff0de053af76</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">6a2e360397ad2210ff74ff0de053af67</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 07:56:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:56:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e2e360397ad2210ff74ff0de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755770_new_em_0_pc_request" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">662e360397ad2210ff74ff0de053af76</sys_ui_form>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">a62e360397ad2210ff74ff0de053af68</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 07:56:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:56:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a2e360397ad2210ff74ff0de053af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755770_new_em_0_pc_request" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">662e360397ad2210ff74ff0de053af76</sys_ui_form>
+            <sys_ui_section caption="New section 3" display_value="New section 3" name="x_1755770_new_em_0_pc_request" sys_domain="global" view="Default view">e22e360397ad2210ff74ff0de053af69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 07:56:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1755770_new_em_0_pc_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:56:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>662e360397ad2210ff74ff0de053af76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755770_new_em_0_pc_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
+            <sys_update_name>sys_ui_form_sections_662e360397ad2210ff74ff0de053af76</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 07:56:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

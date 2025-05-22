@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a98d76cf976d2210ff74ff0de053af84" label="PC Request" max_length="40" name="x_1755770_new_em_0_pc_request" type="collection">
+        <element label="Note" max_length="150" name="note" type="string"/>
+        <element label="Requested for" max_length="40" name="requested_for" type="string"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" display="true" label="PC Model" max_length="40" name="pc_model" type="string"/>
+        <element label="Assign to" max_length="40" name="assign_to" type="string"/>
+        <index name="index">
+            <element name="pc_model"/>
+        </index>
+        <index name="index2">
+            <element name="requested_for"/>
+        </index>
+        <index name="index3">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

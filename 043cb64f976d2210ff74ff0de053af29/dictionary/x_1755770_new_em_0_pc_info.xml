@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c86cba4f976d2210ff74ff0de053affd" label="PC Info" max_length="40" name="x_1755770_new_em_0_pc_info" type="collection">
+        <element display="true" label="PC Model1" max_length="40" name="pc_model" type="string"/>
+        <element label="Inventory Quantity" max_length="40" name="inventory_quantity" type="integer"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+    </element>
+</database>

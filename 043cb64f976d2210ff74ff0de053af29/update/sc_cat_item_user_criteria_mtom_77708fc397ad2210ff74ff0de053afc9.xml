@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Employee PC Request">a5eeb64397ad2210ff74ff0de053af88</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:06:58</sys_created_on>
+        <sys_id>77708fc397ad2210ff74ff0de053afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Employee PC Request.Any User</sys_name>
+        <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_77708fc397ad2210ff74ff0de053afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:06:58</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pc_model" label="PC Model1" language="en" table="x_1755770_new_em_0_pc_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pc_model</element>
+            <help/>
+            <hint/>
+            <label>PC Model1</label>
+            <language>en</language>
+            <name>x_1755770_new_em_0_pc_info</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 07:50:28</sys_created_on>
+            <sys_mod_count>15</sys_mod_count>
+            <sys_name>PC Model1</sys_name>
+            <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
+            <sys_update_name>sys_documentation_x_1755770_new_em_0_pc_info_pc_model_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-22 07:28:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
