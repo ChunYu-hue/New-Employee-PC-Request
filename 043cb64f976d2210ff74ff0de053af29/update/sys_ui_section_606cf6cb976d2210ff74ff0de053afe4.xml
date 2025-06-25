@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="606cf6cb976d2210ff74ff0de053afe4" sys_domain="global" table="x_1755770_new_em_0_pc_info" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pc_model</element>
+            <element>model</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 07:50:57</sys_created_on>
-            <sys_id>55dcb68f976d2210ff74ff0de053af6f</sys_id>
+            <sys_created_on>2025-06-25 05:13:24</sys_created_on>
+            <sys_id>6e682ad6c3da221064e3961d050131a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755770_new_em_0_pc_info" sys_domain="global" view="Default view">606cf6cb976d2210ff74ff0de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 07:50:57</sys_updated_on>
+            <sys_updated_on>2025-06-25 05:13:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 07:50:57</sys_created_on>
-            <sys_id>11dcb68f976d2210ff74ff0de053aff9</sys_id>
+            <sys_created_on>2025-06-25 05:13:24</sys_created_on>
+            <sys_id>2a682ad6c3da221064e3961d050131a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755770_new_em_0_pc_info" sys_domain="global" view="Default view">606cf6cb976d2210ff74ff0de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 07:50:57</sys_updated_on>
+            <sys_updated_on>2025-06-25 05:13:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>inventory_quantity</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-21 07:50:57</sys_created_on>
-            <sys_id>95dcb68f976d2210ff74ff0de053aff9</sys_id>
+            <sys_created_on>2025-06-25 05:13:24</sys_created_on>
+            <sys_id>ae682ad6c3da221064e3961d050131a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1755770_new_em_0_pc_info" sys_domain="global" view="Default view">606cf6cb976d2210ff74ff0de053afe4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-21 07:50:57</sys_updated_on>
+            <sys_updated_on>2025-06-25 05:13:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
