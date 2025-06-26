@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create the test to verify the approval process of catalog item1(New Employee PC Request)</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Test For ATF6-Approve</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 06:11:31</sys_created_on>
+        <sys_id>befef7aac396a21064e3961d050131f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test For ATF6-Approve</sys_name>
+        <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
+        <sys_update_name>sys_atf_test_befef7aac396a21064e3961d050131f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 06:13:04</sys_updated_on>
+        <test_origin>manual</test_origin>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=befef7aac396a21064e3961d050131f7"/>
+</record_update>

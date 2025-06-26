@@ -38,7 +38,7 @@
         <no_order_now>false</no_order_now>
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
-        <no_quantity_v2>true</no_quantity_v2>
+        <no_quantity_v2>false</no_quantity_v2>
         <no_save_as_draft>false</no_save_as_draft>
         <no_search>false</no_search>
         <no_wishlist_v2>false</no_wishlist_v2>
@@ -51,7 +51,7 @@
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
-        <request_method>request</request_method>
+        <request_method/>
         <roles/>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
@@ -65,21 +65,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-21 07:59:59</sys_created_on>
         <sys_id>a5eeb64397ad2210ff74ff0de053af88</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>New Employee PC Request</sys_name>
         <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
         <sys_policy/>
         <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
         <sys_update_name>sc_cat_item_a5eeb64397ad2210ff74ff0de053af88</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2025-06-25 05:08:04</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 03:20:42</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>16</version>
+        <version>17</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

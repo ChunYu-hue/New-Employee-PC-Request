@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Validate there is at least one record in 'x_1755770_new_em_0_pc_request' matching query:
+PC Model = Lenovo T480
+and Note = Test for ATF Approve
+and Assign to = {{Step 13: Impersonate.User.Name}}
+and Requested for = {{Step 13: Impersonate.User.Name}}
+and Requestor = Manager Test
+With a failure timeout of 5 Seconds</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>19</order>
+        <step_config display_value="Record Query">2d82e3c7531400109e02ddeeff7b12a7</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>d7955cb6c31aa21064e3961d050131fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="New Employee PC Request" source="x_1755770_new_em_0">043cb64f976d2210ff74ff0de053af29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Employee PC Request">043cb64f976d2210ff74ff0de053af29</sys_scope>
+        <sys_update_name>sys_atf_step_d7955cb6c31aa21064e3961d050131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 08:08:01</sys_updated_on>
+        <table>x_1755770_new_em_0_pc_request</table>
+        <test display_value="Test For ATF6-Approve">befef7aac396a21064e3961d050131f7</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=d7955cb6c31aa21064e3961d050131fd"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d7955cb6c31aa21064e3961d050131fd</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>09065c3ac31aa21064e3961d050131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 07:50:45</sys_updated_on>
+        <value>records_match_query</value>
+        <variable display_value="Assert type">b86c0427531000109e02ddeeff7b1227</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d7955cb6c31aa21064e3961d050131fd</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>41065c3ac31aa21064e3961d050131ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 08:08:01</sys_updated_on>
+        <value>pc_model=Lenovo T480^note=Test for ATF Approve^assign_to={{step['6b5f0432c31aa21064e3961d05013121'].user.name}}^requested_for={{step['6b5f0432c31aa21064e3961d05013121'].user.name}}^requestor=7e0ba2dac3da221064e3961d050131ff^EQ</value>
+        <variable display_value="Conditions">915990ab531000109e02ddeeff7b12f8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d7955cb6c31aa21064e3961d050131fd</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>8d065c3ac31aa21064e3961d050131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 07:50:45</sys_updated_on>
+        <value>x_1755770_new_em_0_pc_request</value>
+        <variable display_value="Table">78b8d86b531000109e02ddeeff7b12f3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d7955cb6c31aa21064e3961d050131fd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>c9065c3ac31aa21064e3961d050131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 07:50:45</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Enforce security">02fb0027531000109e02ddeeff7b120b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=d7955cb6c31aa21064e3961d050131fd"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>enforce_security</field>
+        <id>d7955cb6c31aa21064e3961d050131fd</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>4d069076c31aa21064e3961d05013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 07:50:45</sys_updated_on>
+        <table>var__m_atf_input_variable_2d82e3c7531400109e02ddeeff7b12a7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>d7955cb6c31aa21064e3961d050131fd</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 07:50:45</sys_created_on>
+        <sys_id>85065c3ac31aa21064e3961d050131e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 08:08:01</sys_updated_on>
+        <table>var__m_atf_input_variable_2d82e3c7531400109e02ddeeff7b12a7</table>
+        <value>pc_model=Lenovo T480^note=Test for ATF Approve^assign_to={{step['6b5f0432c31aa21064e3961d05013121'].user.name}}^requested_for={{step['6b5f0432c31aa21064e3961d05013121'].user.name}}^requestor=7e0ba2dac3da221064e3961d050131ff^EQ</value>
+    </sys_element_mapping>
+</record_update>
